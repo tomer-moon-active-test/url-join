@@ -1,4 +1,5 @@
 Join all arguments together and normalize the resulting url.
+test
 
 ## Install
 
